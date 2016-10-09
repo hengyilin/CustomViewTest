@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CounterView">
+        <attr name="username1" format="string" />
+        <attr name="password1" format="string" />
+        <attr name="age1" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="MyAttrbuteView" >
+        <attr name="username" format="string" />
+        <attr name="password" format="string" />
+        <attr name="age" format="integer" />
+    </declare-styleable>
+
+
+</resources>
